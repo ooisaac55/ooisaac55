@@ -1,8 +1,7 @@
 ## Hi there 👋
+My name is Isaac, I'm computer engineering student interested in a lot of things c++, python and ...I love softwares development and automations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
 
 <!--
 **ooisaac55/ooisaac55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
