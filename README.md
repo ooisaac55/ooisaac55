@@ -1,11 +1,12 @@
 ## Hi there 👋
-My name is Isaac, I'm computer engineering student interested in a lot of things c++, python and ...I love softwares development and automations.
+My name is Isaac, I'm computer engineering student interested in a lot of things c++, python, sql.
+I love softwares development and automations.
 <!--
 **ooisaac55/ooisaac55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 👋 Hi,
 
-🎓 Cybersecurity student | Future Security Analyst
+🎓 Cybersecurity student | Future SOC Security Analyst
 🔐 Passionate about ethical hacking, network security, and learning new technologies
 
 ---
@@ -24,7 +25,7 @@ My name is Isaac, I'm computer engineering student interested in a lot of things
 
 * 💻 Languages: Python, Bash, SQL
 * 🧰 Tools: Wireshark, Nmap, 
-* 🖥️ OS: Linux (Kali, Ubuntu)
+* 🖥️ OS: Linux
 
 ---
 
